@@ -1,0 +1,35 @@
+@define-color background transparent;
+@define-color background-solid #181c1f;
+@define-color foreground #e1e4e8;
+@define-color black #181c1f;
+@define-color red #ea4a5a;
+@define-color green #34d058;
+@define-color yellow #ffdf5d;
+@define-color blue rgba(89, 141, 239, 0.9);
+@define-color magenta #f9826c;
+@define-color cyan #79b8ff;
+@define-color white #e1e4e8;
+@define-color bright-black rgba(103, 110, 149, 0.6);
+
+/* Transparent waybar background */
+* {
+    background: transparent;
+}
+
+/* Solid backgrounds for tooltips and popups */
+tooltip {
+    background: @background-solid;
+    color: @foreground;
+    border: 1px solid @blue;
+    border-radius: 5px;
+}
+
+tooltip label {
+    color: @foreground;
+}
+
+/* Menu popups with solid background */
+menu {
+    background: @background-solid;
+    color: @foreground;
+}
