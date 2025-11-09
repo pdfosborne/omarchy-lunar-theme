@@ -8,10 +8,21 @@
 Lunar is a dark theme for Omarchy that prioritizes focus. It uses a simple, high contrast color palette with minimal transparency effects. Designed for those who want an easy to use theme that keeps you focused.
 
 
-## Screenshot
+## Screenshots
 
 <p align="center">
   <img src="theme.png" alt="Lunar Theme Screenshot">
+</p>
+
+NVIM
+
+<p align="center">
+  <img src="screenshots/screenshot_nvim.png" alt="NVIM Theme Screenshot">
+</p>
+
+VS CODE
+<p align="center">
+  <img src="screenshots/screenshot_vscode.png" alt="VS Code Theme Screenshot">
 </p>
 
 ## Installation
