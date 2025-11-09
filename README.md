@@ -14,6 +14,10 @@ Lunar is a dark theme for Omarchy that prioritizes focus. It uses a simple, high
   <img src="theme.png" alt="Lunar Theme Screenshot">
 </p>
 
+<p align="center">
+  <img src="screenshots/screenshot_preview.png" alt="Lunar FULL Theme Screenshot">
+</p>
+
 NVIM
 
 <p align="center">
