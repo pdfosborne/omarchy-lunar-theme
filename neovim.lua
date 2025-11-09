@@ -1,12 +1,12 @@
 return {
 	{
-		dir = "~/.config/omarchy/themes/osborne/eva.nvim",
-		name = "eva",
+		dir = "~/.config/omarchy/themes/lunar/lunar.nvim",
+		name = "lunar",
 	},
 	{
 		"LazyVim/LazyVim",
 		opts = {
-			colorscheme = "eva",
+			colorscheme = "lunar",
 		},
 	},
 }
