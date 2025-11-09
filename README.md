@@ -50,7 +50,7 @@ omarchy-theme-install https://github.com/pdfosborne/omarchy-lunar-theme
 See the `lunar.nvim` folder in this repository for the Neovim theme.
 
 ## VS Code Theme
-A modification of the [Eva theme]() with darker background, see [Eva Plus]().
+A modification of the [Eva theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme-vs) with darker background, see [Eva Plus](https://marketplace.visualstudio.com/items?itemName=PhilipOsborne.eva-plus-theme).
 
 ## Backgrounds
 
